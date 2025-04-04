@@ -2,7 +2,7 @@
 
 ## Professor: T. N. Vijaykumar <br> TA: Ni Kang
 
-## Due on Saturday, April 27 2024 at 11:59 PM ET 
+## Due on Sunday, April 20 2025 at 11:59 PM ET 
 
 ## Implementing GPU prefetching
 
@@ -68,5 +68,5 @@ the way it does.
 
 As an appendix, include all the files and functions you have modified. 
 Add a short description to each function as why this modification is made.
-This is out of the 2-page limit for the data, but should be limited to another 2 pages.
+This is not included in the 2-page limit for the data, but should be limited to another 2 pages.
 
